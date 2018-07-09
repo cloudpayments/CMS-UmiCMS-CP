@@ -1,4 +1,4 @@
-#  CloudKassir модуль для UMI.CMS
+#  CloudPayments модуль для UMI.CMS
 
 Модуль позволит с легкостью добавить на ваш сайт оплату банковскими картами через платежный сервис [CloudPayments](https://cloudpayments.ru).
 Порядок регистрация сайта описан в документации CloudPayments https://cloudpayments.ru/Docs/Connect
