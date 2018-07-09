@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<umidump xmlns:xlink="http://www.w3.org/TR/xlink" version="2.0">
+  <meta>
+    <site-name><![CDATA[]]></site-name>
+    <domain><![CDATA[localhost]]></domain>
+    <lang><![CDATA[ru]]></lang>
+    <source-name><![CDATA[cloud_payments]]></source-name>
+    <generate-time>
+      <timestamp>1530957814</timestamp>
+      <rfc>Sat, 07 Jul 2018 13:03:34 +0300</rfc>
+      <utc>2018-07-07T13:03:34+03:00</utc>
+    </generate-time>
+  </meta>
+  <registry/>
+  <directories>
+    <directory path="./classes/components/cloud_payments" name="cloud_payments">/classes/components/cloud_payments</directory>
+    <directory path="./templates/cloud_payments" name="cloud_payments">/templates/cloud_payments</directory>
+    <directory path="./templates/cloud_payments\php" name="cloud_payments\php">/templates/cloud_payments\php</directory>
+    <directory path="./templates/cloud_payments\php\emarket" name="cloud_payments\php\emarket">/templates/cloud_payments\php\emarket</directory>
+    <directory path="./templates/cloud_payments\php\emarket\payment" name="cloud_payments\php\emarket\payment">/templates/cloud_payments\php\emarket\payment</directory>
+    <directory path="./templates/cloud_payments\tpls" name="cloud_payments\tpls">/templates/cloud_payments\tpls</directory>
+    <directory path="./templates/cloud_payments\tpls\emarket" name="cloud_payments\tpls\emarket">/templates/cloud_payments\tpls\emarket</directory>
+    <directory path="./templates/cloud_payments\tpls\emarket\payment" name="cloud_payments\tpls\emarket\payment">/templates/cloud_payments\tpls\emarket\payment</directory>
+    <directory path="./templates/cloud_payments\tpls\emarket\payment\cloud_payments" name="cloud_payments\tpls\emarket\payment\cloud_payments">/templates/cloud_payments\tpls\emarket\payment\cloud_payments</directory>
+    <directory path="./templates/cloud_payments\xslt" name="cloud_payments\xslt">/templates/cloud_payments\xslt</directory>
+    <directory path="./styles/skins/modern/data/modules/cloud_payments" name="cloud_payments">/styles/skins/modern/data/modules/cloud_payments</directory>
+  </directories>
+  <files>
+    <file path="./classes/components/cloud_payments/admin.php" size="1052" ext="php" hash="945cf1a5a44d5c7098c2f26c45bb0142" name="admin.php">/classes/components/cloud_payments/admin.php</file>
+    <file path="./classes/components/cloud_payments/class.php" size="2801" ext="php" hash="26eedba341c300775a97f578bcf4238c" name="class.php">/classes/components/cloud_payments/class.php</file>
+    <file path="./classes/components/cloud_payments/customAdmin.php" size="241" ext="php" hash="3e3aeb2c64b1a9f388760be52a2aaf20" name="customAdmin.php">/classes/components/cloud_payments/customAdmin.php</file>
+    <file path="./classes/components/cloud_payments/customMacros.php" size="195" ext="php" hash="e7f742eb0cdc95b6bedc06344d77cf4e" name="customMacros.php">/classes/components/cloud_payments/customMacros.php</file>
+    <file path="./classes/components/cloud_payments/guids.php" size="498" ext="php" hash="8dadee8e103800a606f106145e6aaa94" name="guids.php">/classes/components/cloud_payments/guids.php</file>
+    <file path="./classes/components/cloud_payments/i18n.php" size="1335" ext="php" hash="ce1f8ee35beb47ff2333679cf6a25acb" name="i18n.php">/classes/components/cloud_payments/i18n.php</file>
+    <file path="./classes/components/cloud_payments/install.php" size="1179" ext="php" hash="f6ceb825393dba603381d400df5a4bd1" name="install.php">/classes/components/cloud_payments/install.php</file>
+    <file path="./classes/components/cloud_payments/lang.php" size="152" ext="php" hash="5fadcb65b16b95c15628c110fde9592b" name="lang.php">/classes/components/cloud_payments/lang.php</file>
+    <file path="./classes/components/cloud_payments/macros.php" size="6551" ext="php" hash="8708976840c3e79b0abe11f3b16cf6a1" name="macros.php">/classes/components/cloud_payments/macros.php</file>
+    <file path="./classes/components/cloud_payments/payment_init.php" size="15825" ext="php" hash="e080e79497ab1603c0cf0220e378c2a4" name="payment_init.php">/classes/components/cloud_payments/payment_init.php</file>
+    <file path="./classes/components/cloud_payments/permissions.php" size="390" ext="php" hash="8b5f6bec5c01f71f187b8c104a55c824" name="permissions.php">/classes/components/cloud_payments/permissions.php</file>
+    <file path="./templates/cloud_payments/.DS_Store" size="8196" ext="ds_store" hash="285ff94e1b57f270764e6eec47909573" name=".DS_Store">/templates/cloud_payments/.DS_Store</file>
+    <file path="./templates/cloud_payments/php/.DS_Store" size="6148" ext="ds_store" hash="194577a7e20bdcc7afbb718f502c134c" name=".DS_Store">/templates/cloud_payments/php/.DS_Store</file>
+    <file path="./templates/cloud_payments/php/emarket/payment/cloud_payments.phtml" size="1990" ext="phtml" hash="261c5b36425c9edd05c1f6b5b113da53" name="cloud_payments.phtml">/templates/cloud_payments/php/emarket/payment/cloud_payments.phtml</file>
+    <file path="./templates/cloud_payments/tpls/.DS_Store" size="6148" ext="ds_store" hash="d2c6c5e6609c149b8f3fb922c7bff7a1" name=".DS_Store">/templates/cloud_payments/tpls/.DS_Store</file>
+    <file path="./templates/cloud_payments/tpls/emarket/payment/cloud_payments/default.tpl" size="1306" ext="tpl" hash="85f5e3937933e90c2421839ffc22ee66" name="default.tpl">/templates/cloud_payments/tpls/emarket/payment/cloud_payments/default.tpl</file>
+    <file path="./templates/cloud_payments/xslt/.DS_Store" size="6148" ext="ds_store" hash="a2bf0640960abf936a2edb15819141cf" name=".DS_Store">/templates/cloud_payments/xslt/.DS_Store</file>
+    <file path="./templates/cloud_payments/xslt/cloud_payments_code.xsl" size="1635" ext="xsl" hash="b6b77f7c13a966596a2dcf05f907ffbc" name="cloud_payments_code.xsl">/templates/cloud_payments/xslt/cloud_payments_code.xsl</file>
+    <file path="./styles/skins/modern/data/modules/cloud_payments/list.view.xsl" size="4820" ext="xsl" hash="a35dc29f4c4f30bf10b180cddf5cd251" name="list.view.xsl">/styles/skins/modern/data/modules/cloud_payments/list.view.xsl</file>
+    <file path="./classes/components/emarket/classes/payment/systems/cloud_payments.php" size="3523" ext="php" hash="908eb1d2057c7788062f81ea11413220" name="cloud_payments.php">/classes/components/emarket/classes/payment/systems/cloud_payments.php</file>
+    <file path="./classes/components/emarket/classes/Serializer/Receipt/CloudPayments.php" size="4945" ext="php" hash="2e2ecf6b86ccf64588fa2aa3d47bd5d6" name="CloudPayments.php">/classes/components/emarket/classes/Serializer/Receipt/CloudPayments.php</file>
+    <file path="./classes/components/emarket/customAutoload.php" size="172" ext="php" hash="0de38fffeb1262249b193631e7c40b56" name="customAutoload.php">/classes/components/emarket/customAutoload.php</file>
+    <file path="./classes/components/emarket/services.php" size="4530" ext="php" hash="99c303c84f074bf75ded432b44236193" name="services.php">/classes/components/emarket/services.php</file>
+    <file path="./images/cms/admin/modern/icon/cloud_payments.png" size="18246" ext="png" hash="3069bf82e0bcdbbecdbe9676a89a98f5" name="cloud_payments.png">/images/cms/admin/modern/icon/cloud_payments.png</file>
+  </files>
+  <langs/>
+  <domains/>
+  <templates/>
+  <datatypes/>
+  <types/>
+  <objects/>
+  <pages/>
+  <relations/>
+  <options/>
+  <restrictions/>
+  <permissions/>
+  <hierarchy/>
+  <entities/>
+</umidump>
